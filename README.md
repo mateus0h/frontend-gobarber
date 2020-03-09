@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview, basta criar uma conta
+
+acesse - http://gobarbers.netlify.com/
 
 ## Available Scripts
 
